@@ -1,0 +1,5 @@
+lt\vu\mif\controller\UserController.class
+lt\vu\mif\exception\UserNotFoundException.class
+lt\vu\mif\UserServer.class
+lt\vu\mif\configuration\UserConfiguration.class
+lt\vu\mif\repository\UserRepository.class
